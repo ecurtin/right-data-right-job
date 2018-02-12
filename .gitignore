@@ -1,2 +1,5 @@
 .idea/
 right-data-right-job.iml
+
+# Probably should gitignore all this cluster setup stuff from the get-go
+cluster-setup/*
